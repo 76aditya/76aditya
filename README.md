@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Aditya Kumar.2nd year IT undergrad at IIEST, Shibpur. Backend Developer with a strong grasp on data structure and algorithms. I code in Java, HTML, CSS, C/C++, JavaScript. I use Spring Framework for developing backend applications.<br>
+I develop backend systems using Spring framework. Sometimes I work on the frontend part too depending on the requirement of the projects but it is not the part I am interested to work on. Developing scalable backend systems alongwith user friendly experience and simple to understand logic is the intuition behind the projects I build.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ I am Aditya Kumar.2nd year IT undergrad at IIEST, Shibpur. Backend Developer wit
 ![](https://github-readme-stats.vercel.app/api?username=76aditya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=76aditya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=76aditya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=76aditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
