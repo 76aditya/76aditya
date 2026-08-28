@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there!<br>
+🎓 IT undergraduate @ IIEST, Shibpur  
+💻 Full-Stack Developer | Java | Spring Boot | React  
+🧠 350+ LeetCode problems solved  
+🤖 Exploring AI/ML & intelligent systems  
+🌐 Interested in Backend Engineering, Open Source & System Design  
+🚀 Building projects, solving problems, and learning something new every day.
+
+> Code is better when it solves a real problem.<br>
 
 
 ## 🌐 Socials:
